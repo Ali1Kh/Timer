@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400&display=swap");
+* {
+  font-family: "Cairo", sans-serif;
+  user-select: none;
+}
+.cursorPointer {
+  cursor: pointer !important;
+}
+@font-face {
+  font-family: sevenSegment;
+  src: url("./fonts/seven_segment/Seven Segment.ttf");
+}
+.sevenSegmentFont {
+  font-family: sevenSegment !important;
+  font-size: 60px;
+}
