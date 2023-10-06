@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Timer/static/css/main.a613fc0f.css",
+    "main.js": "/Timer/static/js/main.54b42c32.js",
+    "static/media/alert.wav": "/Timer/static/media/alert.15ded8cd4ae5bc50940e.wav",
+    "static/media/fa-solid-900.ttf": "/Timer/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/countdown.mp3": "/Timer/static/media/countdown.f82b010a8d09f50352ca.mp3",
+    "static/media/fa-brands-400.ttf": "/Timer/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/fa-solid-900.woff2": "/Timer/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/fa-brands-400.woff2": "/Timer/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/fa-regular-400.ttf": "/Timer/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/Seven Segment.ttf": "/Timer/static/media/Seven Segment.3ee4f8118d9db6b61456.ttf",
+    "static/media/fa-regular-400.woff2": "/Timer/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/logo.png": "/Timer/static/media/logo.187a1aacd3fade926077.png",
+    "static/media/fa-v4compatibility.ttf": "/Timer/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Timer/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Timer/index.html",
+    "main.a613fc0f.css.map": "/Timer/static/css/main.a613fc0f.css.map",
+    "main.54b42c32.js.map": "/Timer/static/js/main.54b42c32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a613fc0f.css",
+    "static/js/main.54b42c32.js"
+  ]
+}
